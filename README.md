@@ -1,8 +1,8 @@
-# Smart Cookie Analytics
+# Smart Reward Analytics
 
 <div align="center">
 
-![Smart Cookie Analytics](https://img.shields.io/badge/Status-Active-brightgreen)
+![Smart Reward Analytics](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
@@ -165,20 +165,6 @@ python -m pytest tests/ -v
 # Start the application
 python app.py
 ```
-
-### Docker Installation (Alternative)
-
-```bash
-# Build Docker image
-docker build -t smart-cookie-analytics .
-
-# Run container
-docker run -p 5000:5000 -v $(pwd)/data:/app/data smart-cookie-analytics
-
-# Access at http://localhost:5000
-```
-
----
 
 ## Usage Examples
 
@@ -613,8 +599,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, suggestions, or support:
 
-- **Author**: Haribaskar16
-- **Email**: [your-email@example.com]
+- **Author**: Haribaskar
+- **Email**: haribaskar@gmail.com
 - **GitHub**: [https://github.com/Haribaskar16](https://github.com/Haribaskar16)
 - **Issues**: [GitHub Issues](https://github.com/Haribaskar16/Smart_Cookie_Analytics/issues)
 
@@ -622,7 +608,6 @@ For questions, suggestions, or support:
 
 <div align="center">
 
-**Made with ❤️ by Haribaskar16**
 
 ⭐ If this project helped you, please consider giving it a star!
 
